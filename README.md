@@ -23,17 +23,17 @@ This next-generation Human Resource Management System leverages artificial intel
 1. Clone the repository
 2. Install dependencies:
    ```
-   cd frontend && npm install
-   cd ../backend && npm install
+   cd frontend  npm install
+   cd ../backend  npm install
    ```
 3. Set up environment variables
 4. Start the development servers:
    ```
    # Start backend server
-   cd backend && npm run dev
+   cd backend  npm run dev
    
    # Start frontend server
-   cd frontend && npm start
+   cd frontend  npm start
    ```
 
 ## Project Structure
